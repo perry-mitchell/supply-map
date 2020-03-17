@@ -29,7 +29,7 @@
   "homepage": "https://github.com/perry-mitchell/supply-map#readme",
   "dependencies": {
     "listr": "^0.14.3",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "node-fetch": "^2.6.0"
   }
 }
